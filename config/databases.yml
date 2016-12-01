@@ -1,0 +1,15 @@
+all:
+  doctrine:
+    class: sfDoctrineDatabase
+    param:
+      dsn: 'mysql:host=localhost;port=3306;dbname=hrmtwins_oran862'
+      username: hrmtwins_oran862
+      password: p(4Sz(5s44
+      attributes: { export: tables }
+test:
+  doctrine:
+    class: sfDoctrineDatabase
+    param:
+      dsn: 'mysql:host=localhost;port=3306;dbname=test_hrmtwins_oran862'
+      username: hrmtwins_oran862
+      password: p(4Sz(5s44

@@ -1,0 +1,202 @@
+[28-Nov-2016 17:21:32 UTC] Empty module and/or action after parsing the URL "/webres_57eb84702e3066.16112222/orangehrmAdminPlugin/css/viewEducationSuccess.css" (/).
+[28-Nov-2016 17:21:55 UTC] Empty module and/or action after parsing the URL "/webres_57eb84702e3066.16112222/orangehrmAdminPlugin/css/viewEducationSuccess.css" (/).
+[28-Nov-2016 17:22:07 UTC] Empty module and/or action after parsing the URL "/webres_57eb84702e3066.16112222/orangehrmAdminPlugin/css/viewEducationSuccess.css" (/).
+[28-Nov-2016 17:22:19 UTC] Empty module and/or action after parsing the URL "/webres_57eb84702e3066.16112222/orangehrmAdminPlugin/css/viewEducationSuccess.css" (/).
+[28-Nov-2016 17:23:04 UTC] Empty module and/or action after parsing the URL "/webres_57eb84702e3066.16112222/orangehrmAdminPlugin/css/viewEducationSuccess.css" (/).
+[28-Nov-2016 18:05:39 UTC] Empty module and/or action after parsing the URL "/webres_57eb84702e3066.16112222/js/jquery/jquery.form" (/).
+[28-Nov-2016 18:06:21 UTC] Empty module and/or action after parsing the URL "/webres_57eb84702e3066.16112222/js/jquery/jquery.form" (/).
+[28-Nov-2016 18:06:57 UTC] Empty module and/or action after parsing the URL "/webres_57eb84702e3066.16112222/js/jquery/jquery.form" (/).
+[28-Nov-2016 18:10:01 UTC] Empty module and/or action after parsing the URL "/webres_57eb84702e3066.16112222/js/jquery/jquery.form" (/).
+[28-Nov-2016 18:10:20 UTC] Empty module and/or action after parsing the URL "/webres_57eb84702e3066.16112222/js/jquery/jquery.form" (/).
+Mon 28 Nov 2016 06:29:52 PM UTC,982 [5042] WARN core.email - Email configuration settings not available
+Tue 29 Nov 2016 07:15:28 AM UTC,251 [3383] WARN core.email - Email configuration settings not available
+Tue 29 Nov 2016 08:54:33 AM UTC,877 [11380] WARN core.email - Email configuration settings not available
+Tue 29 Nov 2016 08:54:38 AM UTC,744 [11380] WARN core.email - Email configuration settings not available
+Tue 29 Nov 2016 08:55:35 AM UTC,283 [11459] WARN core.email - Email configuration settings not available
+Tue 29 Nov 2016 08:56:00 AM UTC,180 [11478] WARN core.email - Email configuration settings not available
+Tue 29 Nov 2016 09:11:41 AM UTC,225 [13180] WARN core.email - Email configuration settings not available
+Tue 29 Nov 2016 09:12:15 AM UTC,262 [13210] WARN core.email - Email configuration settings not available
+Tue 29 Nov 2016 09:12:15 AM UTC,268 [13210] WARN core.email - Email configuration settings not available
+Tue 29 Nov 2016 09:12:15 AM UTC,274 [13210] WARN core.email - Email configuration settings not available
+Tue 29 Nov 2016 09:52:52 AM UTC,168 [16645] INFO core.email - ========== Message Begins ==========
+
+Time : November 29, 2016, 9:52 am
+Message Type : Failure
+Message : Sending email failed to rohan@twinspark.co using smtp. Reason: Connection could not be established with host smtp.gmail.com [ #0]
+
+========== Message Ends ==========
+
+
+Tue 29 Nov 2016 09:53:16 AM UTC,502 [16667] INFO core.email - ========== Message Begins ==========
+
+Time : November 29, 2016, 9:53 am
+Message Type : Failure
+Message : Sending email failed to rohan@twinspark.co using smtp. Reason: Connection could not be established with host smtp.gmail.com [ #0]
+
+========== Message Ends ==========
+
+
+Tue 29 Nov 2016 09:55:24 AM UTC,218 [16794] INFO core.email - ========== Message Begins ==========
+
+Time : November 29, 2016, 9:55 am
+Message Type : Failure
+Message : Sending email failed to rohan@twinspark.co using smtp. Reason: Expected response code 250 but got code "530", with message "530-5.5.1 Authentication Required. Learn more at
+530 5.5.1  https://support.google.com/mail/?p=WantAuthError m83sm6692127ioi.11 - gsmtp
+"
+
+========== Message Ends ==========
+
+
+Tue 29 Nov 2016 09:57:07 AM UTC,302 [16986] INFO core.email - ========== Message Begins ==========
+
+Time : November 29, 2016, 9:57 am
+Message Type : Failure
+Message : Sending email failed to rohan@twinspark.co using sendmail. Reason: Unsupported sendmail command flags []. Must be one of "-bs" or "-t" but can include additional flags.
+
+========== Message Ends ==========
+
+
+Tue 29 Nov 2016 09:57:49 AM UTC,531 [17026] INFO core.email - ========== Message Begins ==========
+
+Time : November 29, 2016, 9:57 am
+Message Type : Failure
+Message : Sending email failed to rohan@twinspark.co using sendmail. Reason: Unsupported sendmail command flags [/usr/sbin/sendmail]. Must be one of "-bs" or "-t" but can include additional flags.
+
+========== Message Ends ==========
+
+
+Wed 30 Nov 2016 05:53:17 AM UTC,188 [19232] INFO core.email - ========== Message Begins ==========
+
+Time : November 30, 2016, 5:53 am
+Message Type : Failure
+Message : Couldn't send leave application email to rohan@twinspark.co. Reason: Unsupported sendmail command flags [/usr/sbin/sendmail]. Must be one of "-bs" or "-t" but can include additional flags.
+
+========== Message Ends ==========
+
+
+Wed 30 Nov 2016 05:53:45 AM UTC,147 [19261] INFO core.email - ========== Message Begins ==========
+
+Time : November 30, 2016, 5:53 am
+Message Type : Failure
+Message : Couldn't send leave application email to rohan@twinspark.co. Reason: Unsupported sendmail command flags [/usr/sbin/sendmail]. Must be one of "-bs" or "-t" but can include additional flags.
+
+========== Message Ends ==========
+
+
+Thu 01 Dec 2016 12:10:46 PM UTC,743 [21711] INFO core.email - ========== Message Begins ==========
+
+Time : December 1, 2016, 12:10 pm
+Message Type : Success
+Message : Emails was sent to rohan@twinspark.co using smtp
+
+========== Message Ends ==========
+
+
+Thu 01 Dec 2016 12:12:19 PM UTC,357 [21989] INFO core.email - ========== Message Begins ==========
+
+Time : December 1, 2016, 12:12 pm
+Message Type : Failure
+Message : Sending email failed to rohan@twinspark.co using smtp. Reason: Connection could not be established with host smtp.mailgun.org [ #0]
+
+========== Message Ends ==========
+
+
+Thu 01 Dec 2016 12:12:38 PM UTC,659 [22020] INFO core.email - ========== Message Begins ==========
+
+Time : December 1, 2016, 12:12 pm
+Message Type : Failure
+Message : Sending email failed to rohan@twinspark.co using smtp. Reason: Connection could not be established with host smtp.mailgun.org [ #0]
+
+========== Message Ends ==========
+
+
+Thu 01 Dec 2016 12:12:58 PM UTC,559 [22034] INFO core.email - ========== Message Begins ==========
+
+Time : December 1, 2016, 12:12 pm
+Message Type : Failure
+Message : Sending email failed to rohan@twinspark.co using smtp. Reason: Connection could not be established with host smtp.mailgun.org [ #0]
+
+========== Message Ends ==========
+
+
+Thu 01 Dec 2016 12:13:15 PM UTC,996 [22040] INFO core.email - ========== Message Begins ==========
+
+Time : December 1, 2016, 12:13 pm
+Message Type : Success
+Message : Emails was sent to rohan@twinspark.co using smtp
+
+========== Message Ends ==========
+
+
+Thu 01 Dec 2016 12:15:43 PM UTC,152 [22186] INFO core.email - ========== Message Begins ==========
+
+Time : December 1, 2016, 12:15 pm
+Message Type : Success
+Message : Emails was sent to rohan@twinspark.co using smtp
+
+========== Message Ends ==========
+
+
+Thu 01 Dec 2016 12:23:38 PM UTC,614 [23378] INFO core.email - ========== Message Begins ==========
+
+Time : December 1, 2016, 12:23 pm
+Message Type : Success
+Message : Emails was sent to rohan@twinspark.co using smtp
+
+========== Message Ends ==========
+
+
+Thu 01 Dec 2016 12:24:18 PM UTC,299 [23467] INFO core.email - ========== Message Begins ==========
+
+Time : December 1, 2016, 12:24 pm
+Message Type : Success
+Message : Emails was sent to rohan@twinspark.co using smtp
+
+========== Message Ends ==========
+
+
+Thu 01 Dec 2016 12:47:57 PM UTC,610 [25440] INFO core.email - ========== Message Begins ==========
+
+Time : December 1, 2016, 12:47 pm
+Message Type : Success
+Message : Emails was sent to rohan@twinspark.co using smtp
+
+========== Message Ends ==========
+
+
+Thu 01 Dec 2016 12:51:22 PM UTC,858 [25845] INFO core.email - ========== Message Begins ==========
+
+Time : December 1, 2016, 12:51 pm
+Message Type : Failure
+Message : Sending email failed to rohan@twinspark.co using smtp. Reason: Connection could not be established with host smtp.mailgun.org [ #0]
+
+========== Message Ends ==========
+
+
+Thu 01 Dec 2016 12:52:54 PM UTC,070 [25957] INFO core.email - ========== Message Begins ==========
+
+Time : December 1, 2016, 12:52 pm
+Message Type : Success
+Message : Emails was sent to rohan@twinspark.co using smtp
+
+========== Message Ends ==========
+
+
+Thu 01 Dec 2016 12:53:48 PM UTC,561 [26116] INFO core.email - ========== Message Begins ==========
+
+Time : December 1, 2016, 12:53 pm
+Message Type : Failure
+Message : Sending email failed to rohan@twinspark.co using smtp. Reason: Connection could not be established with host smtp.mailgun.org [ #0]
+
+========== Message Ends ==========
+
+
+Thu 01 Dec 2016 01:00:45 PM UTC,818 [26895] INFO core.email - ========== Message Begins ==========
+
+Time : December 1, 2016, 1:00 pm
+Message Type : Failure
+Message : Sending email failed to rohan@twinspark.co using smtp. Reason: Connection could not be established with host smtp.mailgun.org [ #0]
+
+========== Message Ends ==========
+
+
